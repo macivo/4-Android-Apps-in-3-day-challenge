@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Mac\\Blockweek3\\blockweek3_group2\\App4_PixelMaler\\app\\build\\intermediates\\merged_res\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Mac\\Blockweek3\\blockweek3_group2\\App4_PixelMaler\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endColumns": "57",
+                        "endOffsets": "112"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                },
+                {
+                    "source": "C:\\Mac\\Blockweek3\\blockweek3_group2\\App4_PixelMaler\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "36",
+                        "endOffsets": "49"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "113",
+                        "endColumns": "36",
+                        "endOffsets": "145"
+                    }
+                },
+                {
+                    "source": "C:\\Mac\\Blockweek3\\blockweek3_group2\\App4_PixelMaler\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,6,8,7,5",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "114,59,211,291,252,168",
+                        "endColumns": "52,53,39,39,37,41",
+                        "endOffsets": "162,108,246,326,285,205"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "150,203,257,297,337,375",
+                        "endColumns": "52,53,39,39,37,41",
+                        "endOffsets": "198,252,292,332,370,412"
+                    }
+                }
+            ]
+        }
+    ]
+}

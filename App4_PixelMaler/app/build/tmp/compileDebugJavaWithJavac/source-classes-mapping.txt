@@ -1,0 +1,15 @@
+ch/blockwoche/pixelmaler/BuildConfig.java
+ ch.blockwoche.pixelmaler.BuildConfig
+ch/blockwoche/pixelmaler/PointColor.java
+ ch.blockwoche.pixelmaler.PointColor
+ch/blockwoche/pixelmaler/SquareLayout.java
+ ch.blockwoche.pixelmaler.SquareLayout
+ch/blockwoche/pixelmaler/MainActivity.java
+ ch.blockwoche.pixelmaler.MainActivity
+ ch.blockwoche.pixelmaler.MainActivity$1
+ ch.blockwoche.pixelmaler.MainActivity$2
+ ch.blockwoche.pixelmaler.MainActivity$3
+ ch.blockwoche.pixelmaler.MainActivity$4
+ ch.blockwoche.pixelmaler.MainActivity$5
+ch/blockwoche/pixelmaler/DrawingView.java
+ ch.blockwoche.pixelmaler.DrawingView

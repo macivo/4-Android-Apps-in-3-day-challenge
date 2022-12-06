@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GR 2 Metal Detector</string>
+    <string name="mag_title">Metal Detector</string>
+    <string name="scan">Summit QR now</string>
+    <string name="error_log_put">Error by log.put</string>
+    <string name="error_scan_app">Barcode Scanner from ZXing Team not found, please install and try to test the functions</string>
+    <string name="error_log_app">LogBuch Application not found, please install the application</string>
+</resources>

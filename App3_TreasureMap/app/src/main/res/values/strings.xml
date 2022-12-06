@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GR2 Treasure Map</string>
+    <integer name="google_play_services_version">12211000</integer>
+</resources>
