@@ -52,7 +52,7 @@ To use the app at the Treasure Hunt in the final event and to find out in which 
 
 
 
-##### ![](http://twemoji.maxcdn.com/36x36/1f4e5.png)  [Download This App](https://gitlab.ti.bfh.ch/mullk8/blockweek3_group2/-/blob/22fe036bd467af5fa35fcd2c416797ca395143b9/App1_Metal_Detector/GR2_metal_detector.apk) 
+##### ![](http://twemoji.maxcdn.com/36x36/1f4e5.png)  [Download This App](App1_Metal_Detector/GR2_metal_detector.apk) 
 
 ------------
 ------------
@@ -90,7 +90,7 @@ This app must be able to take pictures and read the QR code and store the code w
 - [x] Test Recycler-View with more than 10 items.
 - [x] Send a result of 5 items to Logbook app and check for correct data contents.
 
-##### ![](http://twemoji.maxcdn.com/36x36/1f4e5.png)  [Download This App](https://gitlab.ti.bfh.ch/mullk8/blockweek3_group2/-/blob/22fe036bd467af5fa35fcd2c416797ca395143b9/App2_Memory/GR2_Memory.apk) 
+##### ![](http://twemoji.maxcdn.com/36x36/1f4e5.png)  [Download This App](App2_Memory/GR2_Memory.apk) 
 
 ------------
 ------------
@@ -123,7 +123,7 @@ This application uses an OpenstreetMap from the OSMDroid library, which allows t
 - [x] Deleting all markers on the map.
 - [x] Send 2 markers to Logbook app and check for correct data contents.
 
-##### ![](http://twemoji.maxcdn.com/36x36/1f4e5.png)  [Download This App](https://gitlab.ti.bfh.ch/mullk8/blockweek3_group2/-/blob/3175dc4fd3458e5e3694b52c413e3db3b112184b/App3_TreasureMap/GR2_TreasureMap.apk) 
+##### ![](http://twemoji.maxcdn.com/36x36/1f4e5.png)  [Download This App](App3_TreasureMap/GR2_TreasureMap.apk) 
 
 ------------
 ------------
@@ -161,4 +161,4 @@ This Application implementing a colored pixel painting. User can select a color 
 - [x] Painting on different pixels with different colors and send them to the LoogBook app
 - [x] Clear the grid
 
-##### ![](http://twemoji.maxcdn.com/36x36/1f4e5.png)  [Download This App](https://gitlab.ti.bfh.ch/mullk8/blockweek3_group2/-/blob/master/App4_PixelMaler/GR2_PixelMaler.apk) 
+##### ![](http://twemoji.maxcdn.com/36x36/1f4e5.png)  [Download This App](App4_PixelMaler/GR2_PixelMaler.apk) 
